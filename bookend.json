@@ -1,0 +1,63 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "email",
+    "twitter",
+    "tumblr",
+    {
+      "provider": "facebook",
+      "app_id": "254325784911610"
+    }
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "Images"
+    },
+		{
+      "type": "small",
+      "title": "Photo by Alex Azabache on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "cover.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Photo by Alex Vasey on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page2.jpg"
+    },
+		{
+      "type": "small",
+      "title": "Photo by Cristina Gottardi on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page3.jpg"
+    },
+		{
+      "type": "small",
+      "title": "Photo by Herr Bohn on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page4.jpg"
+    },
+		{
+      "type": "small",
+      "title": "Photo by Gabriella Clare Marino on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page5.jpg"
+    },
+		{
+      "type": "small",
+      "title": "Photo by Daniele Levis Pelusi on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page6.jpg"
+    },
+		{
+      "type": "small",
+      "title": "Photo by Pietro De Grandi on Unsplash",
+      "url": "https://unsplash.com/",
+      "image": "page7.jpg"
+    }
+	
+	
+	
+  ]
+}
